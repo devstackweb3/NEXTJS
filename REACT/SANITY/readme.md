@@ -1,5 +1,5 @@
-# How can I display whole document (post|article created) from SANITY local server linked with an external project in NEXTJS REACT (using pages architecture)?
-
+# NEXTJS REACT - SANITY
+Objective: Establishing a local server in which articles will be stored and retaken within an external NEXTJS Project through reusable REACT components using tailwindcss to design articles in their best UX overviews.
 ## STEP 1 | Initialize & Configure SANITY LOCAL SERVER independantly
 Terminal cmd: npm i -g @sanity/cli
 STEP 1.1 | Configuration of Local Server
@@ -49,3 +49,9 @@ export default createClient({
 This file (react component created) will serve as a reference access point to connect to the local database established with SANITY through articles, news or blog posts registered on the local server.
 
 'createClient' can be then called through the NEXTJS REACT pages architecture application to connect to the properties of the database created.
+
+# Issues encountered
+
+### How can I display whole document (post|article created) from SANITY local server linked with an external project in NEXTJS REACT (using pages architecture)?
+
+By using a unique enclosing tag referring to the reusable REACT component imported as a named import. 
