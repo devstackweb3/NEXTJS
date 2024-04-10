@@ -1,8 +1,8 @@
 # NEXTJS REACT - SANITY
 Objective: Establishing a local server in which articles will be stored and retaken within an external NEXTJS Project through reusable REACT components using tailwindcss to design articles in their best UX overviews.
 ## STEP 1 | Initialize & Configure SANITY LOCAL SERVER independantly
-Terminal cmd: npm i -g @sanity/cli
-STEP 1.1 | Configuration of Local Server
+**Terminal cmd:** npm i -g @sanity/cli
+### STEP 1.1 | Configuration of Local Server
 Follow the instructions and adapt according to the needs: 
 - Typescript | YES
 - Routes | YES
@@ -22,7 +22,7 @@ Go under the terminal of NEXTJS project targeted and launch:
 
 **Terminal cmd:** npm i @sanity/client
 
-## STEP 3.1 | Configure ID project linking
+### STEP 3.1 | Configure ID project linking
 Within NEXTJS REACT Project, external folder to sanity, establish new keys inside the .env file. 
 ```
 NEXT_PUBLIC_PROJECT_ID='38...'
@@ -31,7 +31,7 @@ NEXT_PUBLIC_DATASET='production'
 ```
 **WARNING SECURITY:** Don't forget to mention within the gitignore file the .env document to exclude its publication on github. 
 
-## STEP 3.2 | Establish the client connectivity with SANITY LOCAL SERVER
+### STEP 3.2 | Establish the client connectivity with SANITY LOCAL SERVER
 Create a folder called "utils" if not yet made.
 Inside it create a file called "sanity-client.ts"
 
