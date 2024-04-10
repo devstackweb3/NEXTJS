@@ -35,8 +35,8 @@ NEXT_PUBLIC_DATASET='production'
 Create a folder called "utils" if not yet made.
 Inside it create a file called "sanity-client.ts"
 
-sanity-client.ts file
 ```
+//sanity-client.ts file
 import { createClient } from '@sanity/client'
 
 export default createClient({
