@@ -9,19 +9,23 @@ Follow the instructions and adapt according to the needs:
 - NEXTJS | YES
 
 ## STEP 2 | Deploy SANITY LOCAL SERVER
-Terminal cmd: sanity start
+**Terminal cmd:** sanity start
+
 or 
-Terminal cmd: npm run start
+
+**Terminal cmd:** npm run start
+**Terminal cmd:** "Yes"
 
 ## STEP 3 | Connect SANITY to initial NEXTJS REACT Project
 Go under the terminal of NEXTJS project targeted and launch:
-Terminal cmd: npm i @sanity/client
+
+**Terminal cmd:** npm i @sanity/client
 
 ## STEP 3.1 | Configure ID project linking
 Within NEXTJS REACT Project, external folder to sanity, establish new keys inside the .env file. 
 NEXT_PUBLIC_PROJECT_ID='38...'
 NEXT_PUBLIC_DATASET='production' 
-WARNING SECURITY: Don't forget to mention within the gitignore file the .env document to exclude its publication on github. 
+**WARNING SECURITY:** Don't forget to mention within the gitignore file the .env document to exclude its publication on github. 
 
 ## STEP 3.2 | Establish the client connectivity with SANITY LOCAL SERVER
 Create a folder called "utils" if not yet made.
