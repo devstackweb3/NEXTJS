@@ -15,7 +15,7 @@ or
 
 **Terminal cmd:** npm run start
 
-**Terminal cmd:** "Yes"
+**Terminal cmd:** Do you want to start a development server instead? **"YES"**
 
 ## STEP 3 | Connect SANITY to initial NEXTJS REACT Project
 Go under the terminal of NEXTJS project targeted and launch:
