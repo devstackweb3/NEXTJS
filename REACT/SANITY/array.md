@@ -33,3 +33,18 @@ FINAL QUESTION: How can I access a variable located in an array using portableTe
 
 2) A new variable type has been baddly declared/exported in Sanity's project
 When is portableTextBlock used? 
+
+
+# Most advanced answers found
+
+## From configuration (Sanity's Project Side) to setting up rethrieval of array in NEXTJS REACT Project
+https://www.sanity.io/guides/ultimate-guide-for-customising-portable-text-from-schema-to-react-component
+
+### PortableText to REACT
+https://www.sanity.io/docs/portable-text-to-react#basic-usage
+
+## Resolving author reference in GROQ queries
+https://www.sanity.io/guides/add-inline-blocks-to-portable-text-editor
+
+## 6. Add rich text and block content with Portable Text
+https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js#d99cbfbb7301
