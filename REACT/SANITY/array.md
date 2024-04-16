@@ -40,11 +40,16 @@ When is portableTextBlock used?
 ## From configuration (Sanity's Project Side) to setting up rethrieval of array in NEXTJS REACT Project
 https://www.sanity.io/guides/ultimate-guide-for-customising-portable-text-from-schema-to-react-component
 
-### PortableText to REACT
-https://www.sanity.io/docs/portable-text-to-react#basic-usage
+### How to use Query to access data in Array
+https://www.sanity.io/answers/how-to-use-a-query-to-access-data-in-array
 
-## Resolving author reference in GROQ queries
+### Resolving author reference in GROQ queries
 https://www.sanity.io/guides/add-inline-blocks-to-portable-text-editor
 
-## 6. Add rich text and block content with Portable Text
+## PORTABLETEXT
+### PortableText & Sanity
+https://www.sanity.io/guides/introduction-to-portable-text
+### PortableText to REACT
+https://www.sanity.io/docs/portable-text-to-react#basic-usage
+### 6. Add rich text and block content with Portable Text
 https://www.sanity.io/blog/build-your-own-blog-with-sanity-and-next-js#d99cbfbb7301
