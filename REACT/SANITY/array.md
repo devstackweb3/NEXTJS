@@ -25,6 +25,10 @@ Is it when attempting to fetch data when using portableTextComponents?
 
 FINAL QUESTION: How can I access a variable located in an array using portableTextComponent? We'd be delighted to give you an example.
 
+## REFERENCE TO CATCH DATAs FROM SANITY
+
+
+https://www.sanity.io/docs/query-cheat-sheet
 
 
 ## ALTERNATIVE SOLUTIONS: 
