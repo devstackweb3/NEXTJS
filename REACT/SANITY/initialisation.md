@@ -1,9 +1,22 @@
 # SANITY PROJECT DEPLOYMENT
 
-## STEP 1 | Terminal VS Code 
-Command line: npm -y create sanity@latest
+## STEP 0 | FOLDER ESTABLISHMENT
+Windows/Mac Terminal Command lines: 
+PATH: C:\Users\mypathtosanityfolder\
 
-CONFIGURATION (SET UP) PROJET SANITY
+Terminal Command: MKDIR Sanity
+
+cd Sanity 
+
+code . 
+
+
+## STEP 1 | INITIALIZATION SANITY PROJECT
+Command line: 
+
+npm -y create sanity@latest
+
+### CONFIGURATION (SET UP) PROJET SANITY
 Select "Create new project"
 
 Your project name: "test"
@@ -18,9 +31,8 @@ Do you want to use Typescript: "Yes"
 
 Package Manager: "npm"
 
-## STEP 1.1 | CONFIGURATION COMMANDE UPDATE SANITY ARCHITECTURE
-
-Package.json
+## STEP 1.1 | CONFIGURATION COMMAND UPDATE SANITY DATA ARCHITECTURE
+File: Package.json
 
 add line under *"scripts": {...}*: 
 "generate": "sanity schema extract && sanity typegen generate",
