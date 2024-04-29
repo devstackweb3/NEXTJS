@@ -50,6 +50,9 @@ https://www.sanity.io/answers/how-to-use-a-query-to-access-data-in-array
 ### Resolving author reference in GROQ queries
 https://www.sanity.io/guides/add-inline-blocks-to-portable-text-editor
 
+### GROQ CHEATSHEET
+https://www.sanity.io/docs/query-cheat-sheet
+
 ## PORTABLETEXT
 ### PortableText & Sanity
 https://www.sanity.io/guides/introduction-to-portable-text
