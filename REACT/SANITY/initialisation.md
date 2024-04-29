@@ -5,7 +5,7 @@ PATH: C:\Users\mypathtosanityfolder\
 
 Terminal Command: **MKDIR Sanity**
 
-cd Sanity 
+Terminal Command: **cd Sanity**
 
 Terminal Command: **code .**
 
