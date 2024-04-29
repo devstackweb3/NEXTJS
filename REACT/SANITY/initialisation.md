@@ -4,11 +4,11 @@
 Windows/Mac Terminal Command lines: 
 PATH: C:\Users\mypathtosanityfolder\
 
-Terminal Command: MKDIR Sanity
+Terminal Command: **MKDIR Sanity**
 
 cd Sanity 
 
-code . 
+Terminal Command: **code .**
 
 
 ## STEP 1 | INITIALIZATION SANITY PROJECT
