@@ -1,7 +1,6 @@
 # SANITY PROJECT DEPLOYMENT
 
 ## STEP 0 | FOLDER ESTABLISHMENT
-Windows/Mac Terminal Command lines: 
 PATH: C:\Users\mypathtosanityfolder\
 
 Terminal Command: **MKDIR Sanity**
