@@ -28,11 +28,11 @@ add line under "scripts": {...}:
 ## AUTHENTICATION ISSUE | NOT ABLE TO BE RECOGNIZED AS ADMIN
 This issue is encountered when a previous sanity project server has been deployed locally and hosted on the same address as "http://localhost:3333". To resolve the case, it is necessary to disconnect manually from sanity in the new created project before launching server. 
 
-### DISCONNEXION STEP 1.0 | SANITY SERVER DECONNEXION (if 2nd project deployment)
+### STEP 1.0 | SANITY SERVER DISCONNEXION (if 2nd project deployment)
 add line under "scripts": {...}:
 "logout": "sanity logout",
 
-### STEP 1.1.1 | DISCONNECT ORDER
+### STEP 1.1 | DISCONNECT ORDER
 Terminal VS Code: npm run logout
 
 ## STEP 1.2 | LAUNCH SANITY SERVER
